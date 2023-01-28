@@ -46,3 +46,5 @@ System.exit(0);
         new Bdemo();
     }
 }
+public void nn
+{}
